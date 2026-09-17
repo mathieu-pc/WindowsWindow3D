@@ -11,3 +11,4 @@ To compile, you need a windows machine and the relevant lgdi/lgdi+ libraries.
 The compile.bat file contains the compile command.
 
 The executable offers a small glimpse into a 3D world. Arrow keys can be used to rotate.
+![alt text](https://github.com/mathieu-pc/WindowsWindow3D/blob/main/image.png?raw=true)
