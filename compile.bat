@@ -1,0 +1,1 @@
+g++ -O3 -o graphics3D.exe graphix3D.cpp -lgdi32 -lgdiplus
